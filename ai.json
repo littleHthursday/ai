@@ -1,0 +1,25 @@
+{
+  "protocol": "TIP-001",
+  "name": "AI List",
+  "logo_uri": "http://xytask.oss-cn-hongkong.aliyuncs.com/xy-task/0b0b656e-2939-42c4-b48f-547b47522205.ico",
+  "timestamp": "2024-01-31T20:37:00.000+00:00",
+  "version": 1,
+  "dapp_list": [{
+      "url": "http://www.chatmatai.com/h5/",
+      "full_screen": 0,
+      "source": 1,
+      "hori_vert": 0,
+      "protocol": "TIP-001",
+      "title_color": "0x000000",
+      "title": "Sleepless Ai",
+      "icon_url": "http://xytask.oss-cn-hongkong.aliyuncs.com/xy-task/0b0b656e-2939-42c4-b48f-547b47522205.ico",
+      "protocol_version": "1.0",
+      "chain_list": [
+        {
+          "chain_id": "56",
+          "network": "ethereum"
+        }
+      ],
+      "navi_color": "0xAFA3FF"
+    }]
+}
